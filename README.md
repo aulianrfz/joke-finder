@@ -15,10 +15,12 @@ View (MainActivity) -> ViewModel (JokeViewModel) -> Repository (JokeRepository) 
 
 ## 🚀 Gambaran Aplikasi
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b543549-cb4b-481e-a486-68c11de14e2a" alt="Screenshot 1" width="200" />
-  <img src="https://github.com/user-attachments/assets/13e4eed7-a993-4184-b588-a0bcc24cf003" alt="Screenshot 2" width="200" />
-  <img src="https://github.com/user-attachments/assets/4de68971-52f5-444e-a9db-2e5cdf87cf45" alt="Screenshot 3" width="200" />
-  <img src="https://github.com/user-attachments/assets/68f23658-825d-4abd-945d-2bf329862efc" alt="Screenshot 4" width="200" />
+  <img src="https://github.com/user-attachments/assets/836833f9-c116-40e1-b01f-b29f365aa964" alt="Screenshot 0" width="250" />
+  <img src="https://github.com/user-attachments/assets/2b543549-cb4b-481e-a486-68c11de14e2a" alt="Screenshot 1" width="250" />
+  <img src="https://github.com/user-attachments/assets/13e4eed7-a993-4184-b588-a0bcc24cf003" alt="Screenshot 2" width="250" />
+  <img src="https://github.com/user-attachments/assets/4de68971-52f5-444e-a9db-2e5cdf87cf45" alt="Screenshot 3" width="250" />
+  <img src="https://github.com/user-attachments/assets/68f23658-825d-4abd-945d-2bf329862efc" alt="Screenshot 4" width="250" />
+
 </p>
 
 ---
