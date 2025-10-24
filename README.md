@@ -14,6 +14,12 @@ Search Jokes
 View (MainActivity) -> ViewModel (JokeViewModel) -> Repository (JokeRepository) -> Network (ApiService → ApiClient)
 
 ## 🚀 Gambaran Aplikasi
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b543549-cb4b-481e-a486-68c11de14e2a" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/13e4eed7-a993-4184-b588-a0bcc24cf003" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/35ade111-2fc5-49cb-9280-3b8e81b3e4e7" alt="Screenshot 3" width="200" />
+  <img src="https://github.com/user-attachments/assets/68f23658-825d-4abd-945d-2bf329862efc" alt="Screenshot 4" width="200" />
+</p>
 
 ---
 ## 🧩 Cara Menjalankan
