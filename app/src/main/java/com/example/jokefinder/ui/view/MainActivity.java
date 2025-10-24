@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
         binding.btnSearch.setOnClickListener(v -> {
             String q = binding.etSearch.getText().toString().trim();
             if (q.isEmpty()) {
-                binding.etSearch.setError("Masukkan kata kunci");
+                binding.etSearch.setError("Must input the key word");
                 return;
             }
             binding.tvInitialMessage.setVisibility(View.GONE);
@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void showNetworkErrorDialog(String msg) {
         if (errorDialog == null || !errorDialog.isAdded()) {
-            errorDialog = ErrorDialogFragment.newInstance("Koneksi Bermasalah", msg);
+            errorDialog = ErrorDialogFragment.newInstance("Connection Error", msg);
             errorDialog.show(getSupportFragmentManager(), "error_dialog");
         }
     }
